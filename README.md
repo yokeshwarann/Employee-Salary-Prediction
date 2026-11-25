@@ -22,7 +22,7 @@ Employee Salary Prediction is a Machine Learning project that predicts employee 
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/yokeshwarann/Employee-Salary-Prediction
    ```
 
 2. Navigate to the project folder:
